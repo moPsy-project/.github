@@ -9,8 +9,12 @@ These are the modules I developed and designed myself or in cooperation with oth
 #### In Development
 
 * [Manual Gate/Trigger Source](https://github.com/moPsy-project/manual-gate-trigger-source)
-* [DIV](https://github.com/moPsy-project/div)
 * [Mousquetaire](https://github.com/moPsy-project/mousquetaire)
+
+#### Done and Working
+* [DIV](https://github.com/moPsy-project/div)
+
+Check out my [Etsy shop](https://mopsymusic.etsy.com)!
 
 ### :money_with_wings: Sponsorship
 
